@@ -88,7 +88,7 @@ simple_rag = (
     | StrOutputParser()
 )
 
-get_ipython().system('pip install -qU langgraph')
+import langgraph
 
 from langgraph.graph import START, StateGraph
 from typing_extensions import List, TypedDict

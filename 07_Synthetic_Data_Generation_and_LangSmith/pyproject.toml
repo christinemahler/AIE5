@@ -14,4 +14,5 @@ dependencies = [
     "ragas==0.2.10",
     "unstructured>=0.14.8",
     "nltk==3.8.1",
+    "itables==2.2.4"
 ]

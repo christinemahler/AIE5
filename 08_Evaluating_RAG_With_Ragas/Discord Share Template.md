@@ -1,6 +1,9 @@
 # AIE5 Assignment 8 - Evaluating RAG with Ragas
 
-GitHub Link: 
+GitHub Links: 
+
+* https://github.com/christinemahler/AIE5/blob/main/08_Evaluating_RAG_With_Ragas/Evaluating_RAG_with_Ragas_(2025)_AI_Makerspace.ipynb
+* https://github.com/christinemahler/AIE5/blob/main/08_Evaluating_RAG_With_Ragas/Evaluating_Agents_with_Ragas_(2025)_AI_Makerspace.ipynb
 
 Loom Video: https://www.loom.com/share/8a874bc1baf24112bd511446b774930c?sid=2e01cb5f-5b5d-4c9c-8883-be4966e7801d
 

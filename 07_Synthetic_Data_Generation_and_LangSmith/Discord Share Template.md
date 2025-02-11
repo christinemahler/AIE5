@@ -1,8 +1,8 @@
 # AIE5 Assignment 7 - Synthetic Data Generation
 
-GitHub Link: 
+GitHub Link: https://github.com/christinemahler/AIE5/blob/main/07_Synthetic_Data_Generation_and_LangSmith/Synthetic_Data_Generation_RAGAS_%26_LangSmith_Assignment.ipynb
 
-Loom Video: https://www.loom.com/share/aa50b78cfc1648699310e24a014dacd4?sid=27f40dc3-0c31-4896-813b-fe8e088fe3bf
+Loom Video: https://www.loom.com/share/2d1e9e5b4a814492989f131b9cf4ce6a?sid=cae1548e-67ed-4cb0-9da7-61e5b100d8ea
 
 # 3 Lessons Learned
 

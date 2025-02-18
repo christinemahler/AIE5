@@ -1,10 +1,8 @@
 # AIE5 Assignment 10 - Unsloth GRPO Training
 
-GitHub Links: 
+GitHub Link: https://github.com/christinemahler/AIE5/blob/main/10_Finetuning_Reasoning_Model/AI_Makerspace_Unsloth_GRPO_Training%20COMPLETED.ipynb
 
-* 
-
-Loom Video: 
+Loom Video: https://www.loom.com/share/d1730d018f9a46779e3254e0670f2eb5?sid=dd3936f5-e980-4748-920c-6d5265c99d58
 
 # 3 Lessons Learned
 

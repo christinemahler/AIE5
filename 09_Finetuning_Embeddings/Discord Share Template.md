@@ -1,8 +1,6 @@
 # AIE5 Assignment 9 - Fine Tuning Embedding Models
 
-GitHub Links: 
-
-* 
+GitHub Link: https://github.com/christinemahler/AIE5/blob/main/09_Finetuning_Embeddings/Fine_tuning_Embedding_Models_for_RAG_Solution_Notebook%20COMPLETED.ipynb
 
 Loom Video: https://www.loom.com/share/00b6ad0426b245a8aeaa624f582d77b2?sid=48a8a279-020e-4096-bdd3-24fdca0ddd67
 

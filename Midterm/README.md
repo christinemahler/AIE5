@@ -96,13 +96,13 @@ As noted above, I have *not* developed an agentic prototype for this midterm as 
 
 **Public Link:** https://huggingface.co/spaces/christinemahler/AIE5-Midterm
 
-*Note: You may also view the notebook where I developed the preliminary code and started work on some of the other components here:*
+*Note: You may also view the notebook where I developed the preliminary code and started work on some of the other components here:* https://github.com/christinemahler/AIE5/blob/main/Midterm/RAG%20Development.ipynb
 
 ## Task 5: Creating a Golden Test Data Set
 
 *NOTE: Because I am limited in what I can do locally on my own computer, I created a "golden" test data set in the Google Colab separate from my main prototype code developed above. A link to that completed notebook is provided below.*  
 
-**Link to Google Colab Notebook Used:** 
+**Link to Google Colab Notebook Used:** https://github.com/christinemahler/AIE5/blob/main/Midterm/Fine%20Tuning%20and%20Evaluation.ipynb
 
 I put "golden" in quotes above because I do think my test data set needs some additional tweaking after creating it. Likely due to the size of my dataset, this process took 45 minutes to complete on each attempt and did not generate the kinds of questions I would expect for my specific use case. Rather than spend any more time on it though, I decided to proceed with the other tasks required for this midterm project. 
 

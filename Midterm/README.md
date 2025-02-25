@@ -123,6 +123,10 @@ I mentioned this above, but I did try some other embeddings instead of the Snowf
 
 **Public Link:** https://huggingface.co/christinemahler/aie5-midterm
 
+The screenshot below is one of the issues encountered when trying to use a different embedding type:
+
+![image](EmbeddingIssues.png)
+
 ## Task 7: Assessing Performance
 
 **Fine-Tuning Evaluation Results:** While performance is improved, it's still not especially great.

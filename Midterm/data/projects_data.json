@@ -1,0 +1,547 @@
+{
+    "meta": {
+        "search_id": "ztUuT0SqWEGBW4sPYsmaLg",
+        "total": 1066,
+        "offset": 0,
+        "limit": 5,
+        "sort_field": "project_start_date",
+        "sort_order": "desc",
+        "sorted_by_relevance": true,
+        "properties": {
+            "URL": "https:/reporter.nih.gov/search/ztUuT0SqWEGBW4sPYsmaLg/projects"
+        }
+    },
+    "results": [
+        {
+            "appl_id": 10985653,
+            "subproject_id": null,
+            "fiscal_year": 2024,
+            "project_num": "1K23HD113825-01A1",
+            "organization": {
+                "org_name": "UNIVERSITY OF UTAH",
+                "city": null,
+                "country": null,
+                "org_city": "SALT LAKE CITY",
+                "org_country": "UNITED STATES",
+                "org_state": "UT",
+                "org_state_name": null,
+                "dept_type": "PEDIATRICS",
+                "fips_country_code": null,
+                "org_duns": [
+                    "009095365"
+                ],
+                "org_ueis": [
+                    "LL8GLEVH6MG3"
+                ],
+                "primary_duns": "009095365",
+                "primary_uei": "LL8GLEVH6MG3",
+                "org_fips": "US",
+                "org_ipf_code": "514002",
+                "org_zipcode": "841129049",
+                "external_org_id": 514002
+            },
+            "award_type": "1",
+            "activity_code": "K23",
+            "award_amount": 167455,
+            "is_active": true,
+            "project_num_split": {
+                "appl_type_code": "1",
+                "activity_code": "K23",
+                "ic_code": "HD",
+                "serial_num": "113825",
+                "support_year": "01",
+                "full_support_year": "01A1",
+                "suffix_code": "A1"
+            },
+            "principal_investigators": [
+                {
+                    "profile_id": 12163589,
+                    "first_name": "Kristina",
+                    "middle_name": "Irene",
+                    "last_name": "Suorsa-Johnson",
+                    "is_contact_pi": true,
+                    "full_name": "Kristina Irene Suorsa-Johnson",
+                    "title": ""
+                }
+            ],
+            "contact_pi_name": "SUORSA-JOHNSON, KRISTINA IRENE",
+            "agency_ic_admin": {
+                "code": "HD",
+                "abbreviation": "NICHD",
+                "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+            },
+            "agency_ic_fundings": [
+                {
+                    "fy": 2024,
+                    "code": "HD",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "abbreviation": "NICHD",
+                    "total_cost": 167455.0
+                }
+            ],
+            "project_start_date": "2024-09-18T12:09:00Z",
+            "project_end_date": "2029-06-30T12:06:00Z",
+            "organization_type": {
+                "name": "SCHOOLS OF MEDICINE",
+                "code": "10",
+                "is_other": false
+            },
+            "opportunity_number": "PA-20-206",
+            "full_study_section": {
+                "srg_code": "CHHD",
+                "srg_flex": "M",
+                "sra_designator_code": null,
+                "sra_flex_code": null,
+                "group_code": null,
+                "name": "Health, Behavior, and Context Study Section[CHHD-M]"
+            },
+            "award_notice_date": "2024-09-18T12:09:00Z",
+            "core_project_num": "K23HD113825",
+            "terms": "<0-11 years old><Address><Adolescent and Young Adult><Anatomic Sites><Anatomic structures><Anatomy><Award><Care Givers><Caregivers><Caring><Child><Child Youth><Childhood><Children (0-21)><Clinic><Clinic Visits><Clinical><Clinical Management><Clinical Trials><Code><Coding System><Collaborations><Conflict><Conflict (Psychology)><Data><Decision Aid><Decision Making><Dedications><Development><Differences of sex development><Doctor of Philosophy><Education><Education and Training><Educational Materials><Educational aspects><Elements><Ensure><Exercise><Feedback><Funding><Future><Gender and Sexual Minorities><Genital Organs><Genitalia><Genitourinary><Genitourinary Surgery><Genitourinary system><Goals><Health><Health Care Providers><Health Instruction><Health Personnel><Health Tutoring><Health education><Healthcare Providers><Healthcare worker><Infant><International><Intervention><Intervention Strategies><Interview><Investigators><Jordan><K23 Award><K23 Mechanism><K23 Program><Knowledge><Leadership><Licensing><Life><Lived experience><Lived experiences><Medical><Mentored Patient-Oriented Research Career Development Award><Mentored Patient-Oriented Research Career Development Award (K23)><Mentors><Methods><Modeling><NICHD><NIH><National Institute of Child Health and Human Development><National Institute of Children's Health and Human Development><National Institutes of Health><Nature><Operative Procedures><Operative Surgical Procedures><Outcome><Outcome Measure><Participant><Patients><Perception><Persons><Ph.D.><PhD><Population><Process><Provider><Psychologist><Randomized><Randomized, Controlled Trials><Recommendation><Registries><Research><Research Personnel><Research Resources><Research Training><Researchers><Resources><Risk><Sexual Development><Sexual Health><Sexual and Gender Minorities><Site><Standardization><Surgical><Surgical Interventions><Surgical Procedure><Survey Instrument><Surveys><Techniques><Testing><Training Programs><Training and Education><Translational Research><Translational Science><United States National Institutes of Health><Urogenital><Urogenital Surgery><Urogenital Surgical Procedures><Urogenital System><Work><acceptability and feasibility><care as usual><career><career development><child patients><community advisory board><community advisory committee><community advisory panel><design><designing><developmental><disorder of sexual development><dissemination science><evidence base><health care personnel><health care worker><health provider><health workforce><healthcare personnel><implementation science><improved><innovate><innovation><innovative><interventional strategy><kids><measurable outcome><medical personnel><multi-site trial><multisite trial><outcome measurement><participant engagement><patient engagement><pediatric><pediatric health outcomes><pediatric patients><physical conditioning><physical health><pilot test><pilot trial><preference><psychosocial><psychosocial outcome><psychosocial sequelae><randomisation><randomization><randomized control trial><randomly assigned><recruit><reproductive><sex development><sex development disorder><shared decision making><skills><standardized care><success><support tools><surgery><tool><translation research><translational investigation><treatment as usual><treatment provider><trial design><user centered design><usual care><youngster>",
+            "pref_terms": "Address;Adolescent and Young Adult;Anatomy;Award;Caregivers;Caring;Child;Childhood;Clinic;Clinic Visits;Clinical;Clinical Management;Clinical Trials;Code;Collaborations;Conflict (Psychology);Data;Decision Aid;Decision Making;Dedications;Development;Doctor of Philosophy;Education;Educational Materials;Elements;Ensure;Exercise;Feedback;Funding;Future;Genitalia;Genitourinary system;Goals;Health;Health Personnel;Health education;Infant;International;Intervention;Interview;Jordan;Knowledge;Leadership;Licensing;Life;Lived experience;Medical;Mentored Patient-Oriented Research Career Development Award;Mentors;Methods;Modeling;National Institute of Child Health and Human Development;Nature;Operative Surgical Procedures;Outcome;Outcome Measure;Participant;Patients;Perception;Persons;Population;Process;Provider;Psychologist;Randomized;Randomized, Controlled Trials;Recommendation;Registries;Research;Research Personnel;Research Training;Resources;Risk;Sexual Development;Sexual Health;Sexual and Gender Minorities;Site;Standardization;Surveys;Techniques;Testing;Training Programs;Training and Education;Translational Research;United States National Institutes of Health;Urogenital Surgical Procedures;Work;acceptability and feasibility;career;career development;community advisory board;design;dissemination science;evidence base;implementation science;improved;innovation;multi-site trial;patient engagement;pediatric health outcomes;pediatric patients;physical conditioning;pilot test;pilot trial;preference;psychosocial;psychosocial outcome;recruit;reproductive;sex development disorder;shared decision making;skills;standardized care;success;support tools;tool;treatment as usual;trial design;user centered design",
+            "abstract_text": "PROJECT SUMMARY/ABSTRACT\nThe proposed 5-year K23 award describes a research training program for Kristina Suorsa-Johnson, PhD, a\nlicensed pediatric psychologist who specializes in differences of sex development (DSD). Her overarching\ncareer goal is to become an independently funded investigator focused on improving the psychosocial and\nhealth outcomes of pediatric patients with DSD by creating tools to facilitate patient engagement in medical\ndecision making through shared decision making (SDM). This award provides support for Dr. Suorsa-Johnson\nto achieve the following Career Development Aims: Aim 1: Obtain expertise in SDM, including the\ndevelopment of decision aids (DAs) for adolescents and young adults (AYAs); Aim 2: Gain sexual health\neducation training, particularly as it relates to the creation of educational materials to enhance surgical SDM;\nAim 3: Develop expertise in evaluating and implementing DAs; and Aim 4: Expand and strengthen research\nleadership and management skills. To achieve these goals, Dr. Suorsa-Johnson has assembled a dedicated\nteam of mentors and advisors with expertise in SDM (Angela Fagerlin, PhD), SDM in AYAs (Ellen Lipstein,\nMD), sexual health education (Jordan Rullo, PhD), dissemination and implementation science (Jennie Hill,\nPhD), qualitative design and clinical trials (Melissa Watt, PhD and Angela Fagerlin, PhD), multi-site trial design\n(Gregory Stoddard, MBA, MPH), urogenital/gonadal surgeries in AYAs (Kathleen van Leeuwen, PhD), and\nDSD education (David Sandberg, PhD and Erica Weidler, MEd, MS). A person with lived experience, Noi\nLiang, MBA, MCPA, is consulting to ensure all aspects of the project align with the needs of those with DSD.\nDSD are congenital conditions where chromosomal, gonadal, or anatomical sex development is atypical. AYAs\nwith DSD make critical and potentially irreversible, life-altering urogenital/gonadal surgical decisions. However,\nwe know little about how AYAs approach surgical decision making and no standardized SDM resources exist.\nAs such, Dr. Suorsa-Johnson proposes to create and pilot a set of surgical DAs for AYAs with DSD. This will\nbe achieved through three Specific Aims: Aim 1: Identify informational needs and values influencing surgical\ndecision making for AYAs with DSD; Aim 2: Develop a set of evidence-based DAs for surgical decisions to\nfacilitate SDM for AYAs and their caregivers; and Aim 3: Pilot test and refine DA content, delivery, and\nfeasibility. This project will result in a set of surgical decision aids ready to be tested in a multi-site trial.\nThis project is significant because it will change how we provide care and improve engagement in surgical\ndecision making for this underserved, NIH-designated sexual and gender minority subpopulation. This\ninnovative project is the first to explore the needs of AYAs with DSD making surgical decisions from a SDM\nframework and create associated decision support tools.",
+            "project_title": "Adolescents and Young Adults: Dilemmas, Education, and Choices Impacting Decisions (AYAs DECIDe) Study",
+            "phr_text": "PROJECT NARRATIVE\nAdolescents and young adults with differences of sex development make critical and potentially irreversible,\nlife-altering surgical decisions about their bodies without standardized resources to support their engagement\nin shared decision making. To fill this gap, the proposed research will examine the decisional needs of\nadolescents and young adults with differences of sex development, as well as develop and pilot a set of\nsurgical decision aids addressing identified needs. Standardized decision aid use will promote adolescent and\nyoung adult engagement in shared decision making, leading to improved care, patient health, and\npsychosocial outcomes.",
+            "spending_categories_desc": null,
+            "agency_code": "NIH",
+            "budget_start": "2024-09-18T12:09:00Z",
+            "budget_end": "2025-06-30T12:06:00Z",
+            "funding_mechanism": "Other Research-Related",
+            "direct_cost_amt": 155051,
+            "indirect_cost_amt": 12404,
+            "project_detail_url": "https://reporter.nih.gov/project-details/10985653"
+        },
+        {
+            "appl_id": 11088654,
+            "subproject_id": null,
+            "fiscal_year": 2024,
+            "project_num": "3U24TR004315-03S1",
+            "organization": {
+                "org_name": "UNIVERSITY OF UTAH",
+                "city": null,
+                "country": null,
+                "org_city": "SALT LAKE CITY",
+                "org_country": "UNITED STATES",
+                "org_state": "UT",
+                "org_state_name": null,
+                "dept_type": "PEDIATRICS",
+                "fips_country_code": null,
+                "org_duns": [
+                    "009095365"
+                ],
+                "org_ueis": [
+                    "LL8GLEVH6MG3"
+                ],
+                "primary_duns": "009095365",
+                "primary_uei": "LL8GLEVH6MG3",
+                "org_fips": "US",
+                "org_ipf_code": "514002",
+                "org_zipcode": "841129049",
+                "external_org_id": 514002
+            },
+            "award_type": "3",
+            "activity_code": "U24",
+            "award_amount": 797002,
+            "is_active": true,
+            "project_num_split": {
+                "appl_type_code": "3",
+                "activity_code": "U24",
+                "ic_code": "TR",
+                "serial_num": "004315",
+                "support_year": "03",
+                "full_support_year": "03S1",
+                "suffix_code": "S1"
+            },
+            "principal_investigators": [
+                {
+                    "profile_id": 10458455,
+                    "first_name": "Jamie",
+                    "middle_name": "P.",
+                    "last_name": "Dwyer",
+                    "is_contact_pi": false,
+                    "full_name": "Jamie P. Dwyer",
+                    "title": "PROFESSOR OF MEDICINE"
+                },
+                {
+                    "profile_id": 9256467,
+                    "first_name": "KATHERINE",
+                    "middle_name": "ANN",
+                    "last_name": "SWARD",
+                    "is_contact_pi": false,
+                    "full_name": "KATHERINE ANN SWARD",
+                    "title": "PROFESSOR"
+                },
+                {
+                    "profile_id": 10531258,
+                    "first_name": "Kevin",
+                    "middle_name": "M",
+                    "last_name": "Watt",
+                    "is_contact_pi": true,
+                    "full_name": "Kevin M Watt",
+                    "title": "ASSOCIATE PROFESSOR"
+                }
+            ],
+            "contact_pi_name": "WATT, KEVIN M",
+            "agency_ic_admin": {
+                "code": "TR",
+                "abbreviation": "NCATS",
+                "name": "National Center for Advancing Translational Sciences"
+            },
+            "agency_ic_fundings": [
+                {
+                    "fy": 2024,
+                    "code": "NS",
+                    "name": "National Institute of Neurological Disorders and Stroke",
+                    "abbreviation": "NINDS",
+                    "total_cost": 797002.0
+                }
+            ],
+            "project_start_date": "2024-09-01T12:09:00Z",
+            "project_end_date": "2027-08-31T12:08:00Z",
+            "organization_type": {
+                "name": "SCHOOLS OF MEDICINE",
+                "code": "10",
+                "is_other": false
+            },
+            "opportunity_number": "PA-20-272",
+            "full_study_section": {
+                "srg_code": "ZTR1",
+                "srg_flex": null,
+                "sra_designator_code": null,
+                "sra_flex_code": null,
+                "group_code": "01",
+                "name": "ZTR1(01)"
+            },
+            "award_notice_date": "2024-09-04T12:09:00Z",
+            "core_project_num": "U24TR004315",
+            "terms": "<Acute pain management><Administrative Supplement><Clinical Trials><Clinical Trials Data Monitoring Committees><Clinical Trials Network><Collaborations><Collection><Common Data Element><Data><Data Analyses><Data Analysis><Data Bases><Data Collection><Data Monitoring Committees><Data Set><Data and Safety Monitoring Boards><Databases><Deposit><Deposition><Development><Dose><HEAL Initiative><Helping End Addiction Long-term><Helping End Addiction Longterm><Helping to End Addiction Long-term><Helping to End Addiction Longterm><IRB><IRBs><Institutional Review Boards><Investigators><Leadership><Monitor><NIH><National Institutes of Health><Opiate Addiction><Opiate Dependence><Opiates><Opioid><Pain><Pain Control><Pain Therapy><Pain management><Painful><Preparation><Protocol><Protocols documentation><Public Health><Publications><Quality Control><Randomized><Regimen><Reporting><Research Personnel><Research Resources><Researchers><Resources><Risk Assessment><Risk Reduction><Safety Monitoring Boards><Scientific Publication><Speed><System><Training><Translational Research><Translational Science><United States National Institutes of Health><Universities><Utah><Work><Writing><addiction><addictive disorder><chronic pain><comparative effectiveness trial><cost><data base><data ecosystem><data interpretation><data management><data sharing><data sharing ecosystem><depository><design><designing><developmental><effectiveness research><opioid addiction><opioid dependence><opioid dependent><pain treatment><preparations><prevention effectiveness trial><programs><randomisation><randomization><randomly assigned><reduce risk><reduce risks><reduce that risk><reduce the risk><reduce these risks><reduces risk><reduces the risk><reducing risk><reducing the risk><repository><risk-reducing><success><translation research><translational investigation>",
+            "pref_terms": "Acute pain management;Administrative Supplement;Clinical Trials;Clinical Trials Data Monitoring Committees;Clinical Trials Network;Collaborations;Collection;Common Data Element;Data;Data Analyses;Data Collection;Data Set;Databases;Deposition;Development;Dose;Helping to End Addiction Long-term;Institutional Review Boards;Leadership;Monitor;Opiate Addiction;Opioid;Pain;Pain management;Preparation;Protocols documentation;Public Health;Publications;Quality Control;Randomized;Regimen;Reporting;Research Personnel;Resources;Risk Assessment;Risk Reduction;Speed;System;Training;Translational Research;United States National Institutes of Health;Universities;Utah;Work;Writing;addiction;chronic pain;comparative effectiveness trial;cost;data ecosystem;data management;data sharing;design;effectiveness research;prevention effectiveness trial;programs;repository;success",
+            "abstract_text": "Abstract\nThe NIH created the Helping to End Addiction Long-term (HEAL) initiative to speed scientic solutions to the\nnational opioid public health crisis. As part of the HEAL initiative, the HEAL Effectiveness Research Network\n(ERN) was established to conduct comparative effectiveness trials for prevention and management of pain, while\nreducing risk of addiction. Five ERN trials have been implemented with data coordination support from the\nUniversity of Utah Data Coordinating Resource Center. This proposal is written to provide continued support for\nthree of these trials that are expected to require no-cost extensions. As the Data Coordination Resource Center,\nwe will continue to work collaboratively with each ERN study team and the other HEAL ERN Resource Centers\nto 1) develop, implement and monitor the ERN trials; 2) help respond to issues/protocol changes that emerge\nduring trial implementation and initiate timely necessary changes to assure trial success; 3) provide collection\nand analysis of data; and 4) assist with timely publication of study results. Our supplement application has two\nSpecic Aims: Specifc Aim 1: Work with ERN investigators and other HEAL ERN Resource Centers to provide\ncollaborative clinical trial expertise and assistance in study and protocol design, single IRB, study implementation\nand management, accrual of subjects, interim study reporting, nal study analyses, and assistance with timely\npublication and dissemination of study results. Specific Aim 2: Provide comprehensive data management for\ncurrent and new ERN trials, including database and data collection systems, data management plans, data\nrisk assessment and quality control, implementation of randomization, assistance with Data Safety Monitoring\nBoard (DSMB) reports, and training for using the data collection systems. Additionally, we will facilitate sharing\nof data from HEAL/ERN trials by incorporating HEAL Common Data Elements(CDEs) into protocols, continuing\nto support NIH program staff in development of HEAL CDEs, continued participation in the HEAL Collective\nBoard, and preparation of nal data sets suitable for deposit in NIH-designated repositories for incorporation into\nthe HEAL Data Ecosystem. Our continued collaboration with ERN investigators and integration with the other\nResource Centers will maximize the likelihood of successful and timely completion of the HEAL ERN clinical\ntrials, leading to translation of research ndings to the effective management of acute and chronic pain, while\nminimizing addictive opioid dosing regimens.",
+            "project_title": "HEAL ERN: Data Coordinating Resource Center",
+            "phr_text": "Narrative\nThe NIH created the Helping to End Addiction Long-term (HEAL) initiative to speed scientic solutions to the\nnational opioid public health crisis. As part of the HEAL initiative, the HEAL Effectiveness Research Network\n(ERN) was established to conduct comparative effectiveness trials for prevention and management of pain, while\nreducing risk of addiction. The University of Utah will provide data coordination support for these trials, leading to\nmore effective management of acute and chronic pain while reducing the risk of opioid addiction.",
+            "spending_categories_desc": null,
+            "agency_code": "NIH",
+            "budget_start": "2024-09-01T12:09:00Z",
+            "budget_end": "2025-08-31T12:08:00Z",
+            "funding_mechanism": "Other Research-Related",
+            "direct_cost_amt": 517534,
+            "indirect_cost_amt": 279468,
+            "project_detail_url": "https://reporter.nih.gov/project-details/11088654"
+        },
+        {
+            "appl_id": 10787066,
+            "subproject_id": null,
+            "fiscal_year": 2024,
+            "project_num": "1R21HD113931-01",
+            "organization": {
+                "org_name": "UNIVERSITY OF UTAH",
+                "city": null,
+                "country": null,
+                "org_city": "SALT LAKE CITY",
+                "org_country": "UNITED STATES",
+                "org_state": "UT",
+                "org_state_name": null,
+                "dept_type": "PEDIATRICS",
+                "fips_country_code": null,
+                "org_duns": [
+                    "009095365"
+                ],
+                "org_ueis": [
+                    "LL8GLEVH6MG3"
+                ],
+                "primary_duns": "009095365",
+                "primary_uei": "LL8GLEVH6MG3",
+                "org_fips": "US",
+                "org_ipf_code": "514002",
+                "org_zipcode": "841129049",
+                "external_org_id": 514002
+            },
+            "award_type": "1",
+            "activity_code": "R21",
+            "award_amount": 253167,
+            "is_active": true,
+            "project_num_split": {
+                "appl_type_code": "1",
+                "activity_code": "R21",
+                "ic_code": "HD",
+                "serial_num": "113931",
+                "support_year": "01",
+                "full_support_year": "01",
+                "suffix_code": ""
+            },
+            "principal_investigators": [
+                {
+                    "profile_id": 6593835,
+                    "first_name": "Gerard",
+                    "middle_name": "Thomas",
+                    "last_name": "Berry",
+                    "is_contact_pi": false,
+                    "full_name": "Gerard Thomas Berry",
+                    "title": ""
+                },
+                {
+                    "profile_id": 7717532,
+                    "first_name": "Kent",
+                    "middle_name": "",
+                    "last_name": "Lai",
+                    "is_contact_pi": true,
+                    "full_name": "Kent  Lai",
+                    "title": "PROFESSOR"
+                },
+                {
+                    "profile_id": 78415525,
+                    "first_name": "Estela",
+                    "middle_name": "",
+                    "last_name": "Rubio-Gozalbo",
+                    "is_contact_pi": false,
+                    "full_name": "Estela  Rubio-Gozalbo",
+                    "title": ""
+                }
+            ],
+            "contact_pi_name": "LAI, KENT ",
+            "agency_ic_admin": {
+                "code": "HD",
+                "abbreviation": "NICHD",
+                "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+            },
+            "agency_ic_fundings": [
+                {
+                    "fy": 2024,
+                    "code": "HD",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "abbreviation": "NICHD",
+                    "total_cost": 253167.0
+                }
+            ],
+            "project_start_date": "2024-08-23T12:08:00Z",
+            "project_end_date": "2026-07-31T12:07:00Z",
+            "organization_type": {
+                "name": "SCHOOLS OF MEDICINE",
+                "code": "10",
+                "is_other": false
+            },
+            "opportunity_number": "PA-20-195",
+            "full_study_section": {
+                "srg_code": "ICER",
+                "srg_flex": null,
+                "sra_designator_code": null,
+                "sra_flex_code": null,
+                "group_code": null,
+                "name": "Integrative and Clinical Endocrinology and Reproduction Study Section[ICER]"
+            },
+            "award_notice_date": "2024-08-23T12:08:00Z",
+            "core_project_num": "R21HD113931",
+            "terms": "<12-20 years old><AAV vector><AAV-based vector><Adolescence><Adolescent><Adolescent Youth><Adolescent and Young Adult><Affect><Alleles><Allelomorphs><Antibodies><Appearance><Applications Grants><Assay><Baby Formula><Benign><Bioassay><Biological Assay><Biopolymers><Brachydanio rerio><Brain><Brain Nervous System><Cannot achieve a pregnancy><Cell Body><Cell Function><Cell Line><Cell Physiology><Cell Process><CellLine><Cells><Cellular Function><Cellular Physiology><Cellular Process><Classic Galactosemia><Classical galactosemia><Clinical><Complementary DNA><Complex><Complication><D-Galactose><DNA Therapy><DNA delivery><Danio rerio><Data><Development><Diagnosis><Diagnostic Findings><Diet><Difficulty conceiving><Disease><Disorder><Dysfunction><Early Diagnosis><Ectopic Expression><Embryo><Embryonic><Encapsulated><Encephalon><Event><Evolution><FSH Receptors><Failure><Fecundability><Fecundity><Fertility><Fishes><Follicle Stimulating Hormone><Follicle Stimulating Hormone Receptor><Follicular Fluid><Follitropin><Functional disorder><Galactopyranose><Galactopyranoside><Galactose><Galactose Metabolism><Galactose Metabolism Pathway><Galactose-1-Phosphate Uridyl-Transferase Deficiency Disease><Galactosemias><Gametes><Gene Delivery><Gene Expression Monitoring><Gene Expression Pattern Analysis><Gene Expression Profiling><Gene Transfer Clinical><General Population><General Public><Genes><Genetic><Genetic Diseases><Genetic Intervention><Germ Cells><Germ-Line Cells><Gonadal Steroid Hormones><Grant Proposals><Hereditary><Hereditary Disease><Hereditary Metabolic Disorder><Histologic><Histologically><Histology><Hormone Receptor><Human><Human Cell Line><Image><Immunoblotting><Immunohistochemistry><Immunohistochemistry Cell/Tissue><Immunohistochemistry Staining Method><Impairment><Inborn Errors of Metabolism><Inborn Genetic Diseases><Infant><Infant formula><Infertility><Inherited><Inherited disorder><Life><Ligands><Liquor Folliculi><Liver><Modality><Modeling><Modern Man><Molecular><Muellerian inhibiting hormone><Mullerian-inhibiting factor><Neonatal><Neonatal Screening><Newborn Infant Screening><OMIM><Online Mendelian Inheritance In Man><Oocytes><Ovarian><Ovarian Follicle Antral Fluid><Ovary><Ovocytes><Pathogenesis><Pathogenicity><Patients><Pattern><Peptide Fragments><Physiopathology><Play><Polymers><Premature Menopause><Puberty><RNA Seq><RNA sequencing><RNAseq><RT-PCR><RTPCR><Recombinants><Reproduction><Reproductive Cells><Reverse Transcriptase Polymerase Chain Reaction><Role><Severities><Sex Cell><Sex Hormones><Sex Steroid Hormones><Signal Pathway><Signs and Symptoms><Somatic Cell><Specificity><Strains Cell Lines><Subcellular Process><System><Technology><Testing><Time><Transcript Expression Analyses><Transcript Expression Analysis><Transcription Regulation><Transcriptional Control><Transcriptional Regulation><Transfection><Tropism><UDPglucose Hexose-1-Phosphate Uridylyltransferase Deficiency><UTP Hexose-1-Phosphate Uridylyltransferase Deficiency><Variant><Variation><Western Blotting><Western Immunoblotting><Woman><Zebra Danio><Zebra Fish><Zebrafish><adeno-associated viral vector><adeno-associated virus vector><adolescence (12-20)><adult youth><analyze gene expression><anti-mullerian factor><anti-mullerian hormone><cDNA><cell type><cultured cell line><curative intervention><curative therapeutic><curative therapy><curative treatments><deliver DNA><design><designing><developmental><diet restriction><dietary><dietary restriction><diets><disease diagnosis><early detection><early menopause><experiment><experimental research><experimental study><experiments><expression vector><feasibility testing><fertility cessation><fertility loss><folliculogenesis><galactose 1 phosphate uridylyl transferase deficiency><galactose-1-phosphate><gene expression analysis><gene expression assay><gene repair therapy><gene replacement therapy><gene therapy><gene-based therapy><gene-based treatment><gene-directed therapy><gene-targeted therapy><gene-targeted treatment><genetic condition><genetic disorder><genetic therapy><genomic therapy><gonadal steroids><granulosa cell><hepatic body system><hepatic organ system><hereditary disorder><heritable disorder><iPS><iPSC><iPSCs><imaging><in vitro testing><inborn error><inborn metabolism disorder><induced pluripotent cell><induced pluripotent stem cell><inducible pluripotent stem cell><infancy><infantile><infertile><inherited diseases><inherited genetic disease><inherited genetic disorder><initial cell><innovative technologies><insight><juvenile><juvenile human><milk formula><mullerian inhibiting substance><mullerian regression factor><mullerian-inhibiting hormone><mullerian-inhibitory substance><nano particle><nano particle delivery><nano-sized particle><nanoparticle><nanoparticle delivered><nanoparticle delivery><nanosized particle><neonatal period><neonate><newborn screening><nucleic acid therapy><nucleic acid-based therapeutics><ovarian damage><pathophysiology><pituitary gonadal axis><plasmid DNA><polymer><polymeric><postnatal><premature age of menopause><prenatal><prevent><preventing><protein blotting><restoration><restricted diet><reverse transcriptase PCR><scRNA-seq><screening program><sex steroid><sexual cell><single cell RNA-seq><single cell RNAseq><single cell expression profiling><single cell transcriptomic profiling><single-cell RNA sequencing><social role><targeted drug therapy><targeted drug treatments><targeted therapeutic><targeted therapeutic agents><targeted therapy><targeted treatment><therapeutic nucleic acids><transcriptional profiling><transcriptome sequencing><transcriptomic sequencing><unborn><uptake><young adult><young adulthood>",
+            "pref_terms": "Adolescence;Adolescent;Adolescent and Young Adult;Affect;Alleles;Antibodies;Appearance;Applications Grants;Benign;Biological Assay;Biopolymers;Brain;Cell Line;Cell Physiology;Cells;Classical galactosemia;Clinical;Complementary DNA;Complex;Complication;DNA delivery;Data;Development;Diagnosis;Diet;Disease;Early Diagnosis;Ectopic Expression;Embryo;Encapsulated;Event;Evolution;Failure;Fertility;Fishes;Follicle Stimulating Hormone;Follicle Stimulating Hormone Receptor;Follicular Fluid;Functional disorder;Galactose;Galactose Metabolism Pathway;Galactosemias;Gene Delivery;Gene Expression Profiling;General Population;Genes;Genetic;Genetic Diseases;Germ Cells;Gonadal Steroid Hormones;Hereditary Disease;Histologic;Histology;Hormone Receptor;Human;Human Cell Line;Image;Immunohistochemistry;Impairment;Inborn Errors of Metabolism;Infant;Infant formula;Infertility;Inherited;Life;Ligands;Liver;Modality;Modeling;Molecular;Neonatal;Neonatal Screening;Online Mendelian Inheritance In Man;Oocytes;Ovarian;Ovary;Pathogenesis;Pathogenicity;Patients;Pattern;Peptide Fragments;Play;Polymers;Premature Menopause;Puberty;Recombinants;Reproduction;Reverse Transcriptase Polymerase Chain Reaction;Role;Severities;Signal Pathway;Signs and Symptoms;Somatic Cell;Specificity;System;Technology;Testing;Time;Transcriptional Regulation;Transfection;Tropism;Variant;Western Blotting;Woman;Zebrafish;adeno-associated viral vector;cell type;curative treatments;design;dietary;dietary restriction;disease diagnosis;experimental study;expression vector;feasibility testing;folliculogenesis;galactose-1-phosphate;gene replacement therapy;gene therapy;gene-targeted therapy;granulosa cell;in vitro testing;induced pluripotent stem cell;infancy;innovative technologies;insight;mullerian-inhibiting hormone;nanoparticle;nanoparticle delivery;neonatal period;neonate;nucleic acid-based therapeutics;ovarian damage;pituitary gonadal axis;plasmid DNA;postnatal;prenatal;prevent;restoration;screening program;single-cell RNA sequencing;targeted treatment;transcriptome sequencing;uptake;young adult",
+            "abstract_text": "PROJECT SUMMARY / ABSTRACT\nHereditary deficiency of galactose-1-phosphate uridylyltransferase (GALT, E.C. 2.7.7.12) activity in humans\ncan lead to a potentially lethal disease called Classic Galactosemia (OMIM 230400). Despite the life-saving\nconsequences of newborn screening, early diagnosis, and a galactose-restricted diet, affected women\ninvariably show ovarian damage and fertility impairment representing the greatest burden of their disease.\nThere are currently no satisfactory treatments available to prevent this complication. Recently, insights into\nthe underlying pathophysiology and innovative technological advancements have become available, and\noptions for curative treatment have emerged. Using this momentum, we aim to develop a treatment to\nprevent fertility impairments. We aim to 1) develop a non-viral nucleic acid therapy approach that targets the\novary and 2) determine the optimal timing to rescue the ovarian function. Folliculogenesis is driven by the\ncross-talk between oocytes and granulosa cells. Restoration of GALT activity in these cells could possibly\nrescue the ovarian damage.\nIn this pilot grant application, we will explore a new modality of gene therapy using nanoparticles\nencapsulating episomal GALT cDNA within a non-viral expression vector. This will include determination of\nthe optimal cationic polymer layer for delivery of episomal DNA plasmids expressing GFP or GALT to\ngranulosa cell lines and the addition of ligands to encourage uptake and promote specificity.\nIn addition, we will determine the optimal window of opportunity for this treatment. A prenatal origin has been\nconsidered for decades whereas the data currently available, albeit scarce, favor a postnatal origin. There is\nundoubtedly early damage, but whether treatments aimed to prevent ovarian damage needs to be started in\nthe neonatal period, or treating in infancy or adolescence would suffice, is not clear. This will be studied using\nthe zebrafish model for classic galactosemia that mimics the fertility impairments and is suitable for studies\nthrough development. Zebrafish reproduction is regulated by the brain-pituitary-gonadal axis, comparable\nto the human situation. For this purpose, RNA-seq, histology/immunohistochemistry of follicole\ndevelopment and single cell RNA-seq of oocytes and granulosa cells at 4 developmental stages will\nbe studied. These studies will uncover developmental stage and cell-specific alterations in the affected\novaries. Distinctive patterns at the different stages are expected to reveal at which stage(s) damage\ncan be prevented/halted using ovary targeted gene therapy.",
+            "project_title": "Optimal Window of Opportunity for Granulosa Cell Gene Therapy in Galactosemia",
+            "phr_text": "PROJECT NARRATIVE\n Hypergonadotropic hypoestrogenic infertility due to ovarian damage is the greatest burden for women\nsuffering from hereditary Classic Galactosemia, an inborn error of metabolism included in the newborn\nscreening programs. Timely diagnosis and introduction of diet have shown to be beneficial, but diet does not\nprevent ovarian damage, which invariably affects women with this disease. This project aims to develop gene-\nbased therapy targeted to the ovary to prevent or halt the damage cascade and determine the optimal window\nof opportunity for this treatment.",
+            "spending_categories_desc": null,
+            "agency_code": "NIH",
+            "budget_start": "2024-08-23T12:08:00Z",
+            "budget_end": "2025-07-31T12:07:00Z",
+            "funding_mechanism": "Non-SBIR/STTR",
+            "direct_cost_amt": 198635,
+            "indirect_cost_amt": 54532,
+            "project_detail_url": "https://reporter.nih.gov/project-details/10787066"
+        },
+        {
+            "appl_id": 10985761,
+            "subproject_id": null,
+            "fiscal_year": 2024,
+            "project_num": "1K23HD112591-01A1",
+            "organization": {
+                "org_name": "UNIVERSITY OF UTAH",
+                "city": null,
+                "country": null,
+                "org_city": "SALT LAKE CITY",
+                "org_country": "UNITED STATES",
+                "org_state": "UT",
+                "org_state_name": null,
+                "dept_type": "PEDIATRICS",
+                "fips_country_code": null,
+                "org_duns": [
+                    "009095365"
+                ],
+                "org_ueis": [
+                    "LL8GLEVH6MG3"
+                ],
+                "primary_duns": "009095365",
+                "primary_uei": "LL8GLEVH6MG3",
+                "org_fips": "US",
+                "org_ipf_code": "514002",
+                "org_zipcode": "841129049",
+                "external_org_id": 514002
+            },
+            "award_type": "1",
+            "activity_code": "K23",
+            "award_amount": 167001,
+            "is_active": true,
+            "project_num_split": {
+                "appl_type_code": "1",
+                "activity_code": "K23",
+                "ic_code": "HD",
+                "serial_num": "112591",
+                "support_year": "01",
+                "full_support_year": "01A1",
+                "suffix_code": "A1"
+            },
+            "principal_investigators": [
+                {
+                    "profile_id": 16247237,
+                    "first_name": "Kathleen",
+                    "middle_name": "Marie",
+                    "last_name": "Job",
+                    "is_contact_pi": true,
+                    "full_name": "Kathleen Marie Job",
+                    "title": "RESEARCH ASSISTANT PROFESSOR"
+                }
+            ],
+            "contact_pi_name": "JOB, KATHLEEN MARIE",
+            "agency_ic_admin": {
+                "code": "HD",
+                "abbreviation": "NICHD",
+                "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+            },
+            "agency_ic_fundings": [
+                {
+                    "fy": 2024,
+                    "code": "HD",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "abbreviation": "NICHD",
+                    "total_cost": 167001.0
+                }
+            ],
+            "project_start_date": "2024-07-16T12:07:00Z",
+            "project_end_date": "2029-06-30T12:06:00Z",
+            "organization_type": {
+                "name": "SCHOOLS OF MEDICINE",
+                "code": "10",
+                "is_other": false
+            },
+            "opportunity_number": "PA-20-205",
+            "full_study_section": {
+                "srg_code": "CHHD",
+                "srg_flex": "B",
+                "sra_designator_code": null,
+                "sra_flex_code": null,
+                "group_code": null,
+                "name": "Obstetrics and Maternal-Fetal Biology Study Section[CHHD-B]"
+            },
+            "award_notice_date": "2024-07-16T12:07:00Z",
+            "core_project_num": "K23HD112591",
+            "terms": "<21+ years old><Address><Adrenal Cortex Hormones><Adult><Adult Human><Affect><Anatomic Sites><Anatomic structures><Anatomy><Area><Asthma><Binding Proteins><Biological><Blood flow><Bronchial Asthma><Cessation of life><Chronic><Chronic Disease><Chronic Illness><Clinical><Clinical Research><Clinical Study><Clinical Trials><Clinical Trials Design><Collection><Corticoids><Corticosteroids><Creatinine Clearance><Creatinine clearance measurement><Data><Death><Development><Development and Research><Dose><Drug Exposure><Drug Kinetics><Drug Modelings><Drug Prescribing><Drug Prescriptions><Drugs><Equilibrium><Ethics><Event><Exposure to><FDA approved><Failure><Fetus><Future><Gestation><Goals><Health><Human><Incidence><Individual><Infant><Inhalation><Inhaling><Injury><Interdisciplinary Research><Interdisciplinary Study><Intermediary Metabolism><Investigators><Jobs><K23 Award><K23 Mechanism><K23 Program><Leadership><Leukotriene Antagonists><Leukotriene Receptor Antagonists><Ligand Binding Protein><Ligand Binding Protein Gene><Link><Literature><Maternal-fetal medicine><Medication><Mentored Patient-Oriented Research Career Development Award><Mentored Patient-Oriented Research Career Development Award (K23)><Mentors><Mentorship><Metabolic Processes><Metabolism><Methodology><Methods><Mission><Modeling><Modern Man><Mothers><Multidisciplinary Collaboration><Multidisciplinary Research><NIH><National Institutes of Health><Occupations><Organ Size><Outcome><PBPK><Pharmaceutical Epidemiology><Pharmaceutical Preparations><Pharmacoepidemiology><Pharmacokinetics><Pharmacology><Phase><Phlebotomy><Physiologic><Physiological><Physiology><Population><Pregnancy><Professional Positions><Prospective Studies><Protein Binding><Public Health><R & D><R&D><Regimen><Research><Research Design><Research Personnel><Researchers><Safety><Sampling><Science><Special Population><Specialist><Study Type><Survey Instrument><Surveys><Symptoms><Techniques><Therapeutic><Time><Toxic effect><Toxicities><Training><Treatment Failure><United States><United States National Institutes of Health><Venous blood sampling><adulthood><appropriate dose><asthma model><balance><balance function><biologic><bound protein><career><career development><chronic disorder><clinical care><computer based prediction><design><designing><developmental><disability><dose information><drug action><drug disposition><drug epidemiology><drug/agent><efficacy trial><ethical><fetal><fluticasone><improved outcome><inflammation marker><inflammatory marker><injuries><innovate><innovation><innovative><interest><maternal morbidity><medication prescription><montelukast><optimal drug dosage><optimal drug dose><participant enrollment><patient centered><patient enrollment><patient oriented><pharmacodynamic model><pharmacoepidemiologic><pharmacoepidemiological><pharmacokinetic model><pharmacometrics><physiologically based pharmacokinetics><predictive modeling><pregnant><prescribed medication><programs><prospective><research and development><skill acquisition><skill development><skills><standard of care><study design><therapy failure>",
+            "pref_terms": "Address;Adrenal Cortex Hormones;Adult;Affect;Anatomy;Area;Asthma;Binding Proteins;Biological;Blood flow;Cessation of life;Chronic;Chronic Disease;Clinical;Clinical Research;Clinical Trials;Clinical Trials Design;Collection;Creatinine clearance measurement;Data;Development;Dose;Drug Exposure;Drug Kinetics;Drug Modelings;Drug Prescriptions;Equilibrium;Ethics;Event;Exposure to;FDA approved;Failure;Fetus;Future;Goals;Health;Human;Incidence;Individual;Infant;Inhalation;Injury;Interdisciplinary Study;Leadership;Leukotriene Antagonists;Link;Literature;Maternal-fetal medicine;Mentored Patient-Oriented Research Career Development Award;Mentors;Mentorship;Metabolism;Methodology;Methods;Mission;Modeling;Mothers;Occupations;Organ Size;Outcome;Pharmaceutical Preparations;Pharmacoepidemiology;Pharmacology;Phase;Physiological;Physiology;Population;Pregnancy;Prospective Studies;Public Health;Regimen;Research;Research Design;Research Personnel;Safety;Sampling;Science;Special Population;Specialist;Surveys;Symptoms;Techniques;Therapeutic;Time;Toxic effect;Training;Treatment Failure;United States;United States National Institutes of Health;Venous blood sampling;appropriate dose;asthma model;career;career development;clinical care;design;disability;dose information;drug action;drug disposition;efficacy trial;fetal;fluticasone;improved outcome;inflammatory marker;innovation;interest;maternal morbidity;montelukast;participant enrollment;patient oriented;pharmacodynamic model;pharmacokinetic model;pharmacometrics;physiologically based pharmacokinetics;predictive modeling;pregnant;programs;prospective;research and development;skill acquisition;skills;standard of care",
+            "abstract_text": "PROJECT SUMMARY/ABSTRACT\nThis is an application for a K23 award for Dr. Kathleen M. Job, a clinical pharmacologist and young\ninvestigator pursuing patient-oriented clinical research into how pregnancy and chronic disease\ninfluences drug disposition and action. This K23 award will provide Dr. Job with support necessary for\ncareer development in the following areas: (1) advanced pharmacometric techniques; (2) pregnancy\nand maternal-fetal science; (3) clinical trial design and management in pregnant populations; and (4)\nleading an interdisciplinary research program. By acquiring these skills, Dr. Job will fulfill her career\ngoal of becoming an independent investigator who advances clinical care by integrating physiology\nand pharmacology into approaches for designing, conducting, and interpreting clinical trials in\npregnant individuals. To achieve these goals, Dr. Job has assembled a mentoring team comprising a\nprimary mentor, Dr. Kevin Watt, an expert in PBPK modeling in special populations, and co-mentors,\nDr. Torri Metz, a specialist in maternal-fetal medicine and clinical research, Dr. Christina Chambers,\nan expert in epidemiology of drugs during pregnancy and health outcomes, and Dr. Andr\u00e9 Dallmann,\na leader in physiologically-based pharmacokinetic (PBPK) modeling in pregnant populations.\nAsthma is the most common chronic condition associated with pregnancy and affects up to 300,000\npregnancies every year in the United States. Asthma drugs are critical for achieving and maintaining\nproper control of asthma symptoms. The pharmacokinetics of these drugs can be affected by the\naltered physiology and lead to unacceptable drug-related toxicity or treatment failure. Progressive\nchanges to physiology occur throughout pregnancy. In the current proposal, Dr. Kathleen Job will\ndetermine optimal dosing of two common asthma medications in pregnant individuals. In Aim 1, she\nwill develop maternal-fetal PBPK models for these asthma medications. In Aim 2, she will evaluate\nmodel predictions with data from prospective clinical pharmacokinetic studies in pregnant individuals\nwith asthma. In Aim 3, she will develop pharmacodynamic models for the drugs of interest in pregnant\nindividuals with asthma with data collected as part of the prospective clinical pharmacokinetic studies\nin pregnant individuals. Findings will inform a Phase II/III Phase II/III safety and efficacy trial in\npregnant individuals with asthma and build a platform that can be applied to dosing of any drug at any\nstage of pregnancy. This research will prepare Dr. Job to design and implement scientifically rigorous\nand ethical drug trials in pregnant populations.",
+            "project_title": "Physiologically-Based Pharmacokinetic (PBPK) Modeling of Asthma Drugs during Pregnancy",
+            "phr_text": "PROJECT NARRATIVE\nThe lack of appropriate dosing information in pregnant individuals with uncontrolled asthma is an\nunmet public health need that can result in therapeutic failure and death. This proposal will build a\nframework for the use of physiologically based pharmacokinetic (PBPK) modeling for pregnant\nindividuals with asthma. These developed PBPK models can be broadly applied to inform dosing of\nother drugs, improve outcomes in pregnant individuals, and further the NIH\u2019s mission to reduce illness\nand disability.",
+            "spending_categories_desc": null,
+            "agency_code": "NIH",
+            "budget_start": "2024-07-16T12:07:00Z",
+            "budget_end": "2025-06-30T12:06:00Z",
+            "funding_mechanism": "Other Research-Related",
+            "direct_cost_amt": 154828,
+            "indirect_cost_amt": 12173,
+            "project_detail_url": "https://reporter.nih.gov/project-details/10985761"
+        },
+        {
+            "appl_id": 10785881,
+            "subproject_id": null,
+            "fiscal_year": 2024,
+            "project_num": "1R01NR020784-01A1",
+            "organization": {
+                "org_name": "UNIVERSITY OF UTAH",
+                "city": null,
+                "country": null,
+                "org_city": "SALT LAKE CITY",
+                "org_country": "UNITED STATES",
+                "org_state": "UT",
+                "org_state_name": null,
+                "dept_type": "PEDIATRICS",
+                "fips_country_code": null,
+                "org_duns": [
+                    "009095365"
+                ],
+                "org_ueis": [
+                    "LL8GLEVH6MG3"
+                ],
+                "primary_duns": "009095365",
+                "primary_uei": "LL8GLEVH6MG3",
+                "org_fips": "US",
+                "org_ipf_code": "514002",
+                "org_zipcode": "841129049",
+                "external_org_id": 514002
+            },
+            "award_type": "1",
+            "activity_code": "R01",
+            "award_amount": 631544,
+            "is_active": true,
+            "project_num_split": {
+                "appl_type_code": "1",
+                "activity_code": "R01",
+                "ic_code": "NR",
+                "serial_num": "020784",
+                "support_year": "01",
+                "full_support_year": "01A1",
+                "suffix_code": "A1"
+            },
+            "principal_investigators": [
+                {
+                    "profile_id": 9481582,
+                    "first_name": "Flory",
+                    "middle_name": "L",
+                    "last_name": "Nkoy",
+                    "is_contact_pi": true,
+                    "full_name": "Flory L Nkoy",
+                    "title": "PROFESSOR"
+                }
+            ],
+            "contact_pi_name": "NKOY, FLORY L",
+            "agency_ic_admin": {
+                "code": "NR",
+                "abbreviation": "NINR",
+                "name": "National Institute of Nursing Research"
+            },
+            "agency_ic_fundings": [
+                {
+                    "fy": 2024,
+                    "code": "NR",
+                    "name": "National Institute of Nursing Research",
+                    "abbreviation": "NINR",
+                    "total_cost": 631544.0
+                }
+            ],
+            "project_start_date": "2024-06-12T12:06:00Z",
+            "project_end_date": "2029-03-31T12:03:00Z",
+            "organization_type": {
+                "name": "SCHOOLS OF MEDICINE",
+                "code": "10",
+                "is_other": false
+            },
+            "opportunity_number": "PAR-20-180",
+            "full_study_section": {
+                "srg_code": "ZRG1",
+                "srg_flex": null,
+                "sra_designator_code": "HSS",
+                "sra_flex_code": "B",
+                "group_code": "90",
+                "name": "Special Emphasis Panel[ZRG1 HSS-B (90)]"
+            },
+            "award_notice_date": "2024-06-12T12:06:00Z",
+            "core_project_num": "R01NR020784",
+            "terms": "<0-11 years old><Accident and Emergency department><Active Follow-up><Acute><Adherence><Admission><Admission activity><Affect><Age><Asthma><Attention><Body System><Bronchial Asthma><Caring><Child><Child Support><Child Youth><Child health care><Childhood><Children (0-21)><Children with Disabilities><Children's Hospital><Chronic><Chronic Disease><Chronic Illness><Clinic><Complex><Data><Dependence><Deterioration><Diabetes Mellitus><Disabled Children><Disparity population><Domiciliary Care><ED visit><ER visit><Early Diagnosis><Early Intervention><Early identification><Emergency Department><Emergency care visit><Emergency department visit><Emergency hospital visit><Emergency room><Emergency room visit><Ethnic Origin><Ethnicity><Family><Feedback><Fever><Focus Groups><Graph><Handicapped Children><Health><Health Care Costs><Health Care Providers><Health Costs><Health Inequity><Health Personnel><Health Status><Healthcare><Healthcare Costs><Healthcare Providers><Healthcare worker><Home><Home Care Services><Hospital Admission><Hospitalization><Hospitalized Child><Hospitals><Impairment><Impoverished><Incentives><Inequalities in Health><Inequities in Health><Inequity><Length of Stay><Level of Health><Liquid substance><Medical><Methods><Minority><Mobile Health App><Mobile Health Application><Modeling><Monitor><Multi-center studies><Multicenter Studies><Neurologic><Neurological><Number of Days in Hospital><Observation research><Observation study><Observational Study><Observational research><Organ System><Outcome><Pain><Painful><Parents><Pediatric Hospitals><Personal Satisfaction><Poverty><Pyrexia><QOL><Quality of life><Race><Races><Randomized><Recurrence><Recurrent><Reporting><Respiratory distress><Risk><Seizures><Self Efficacy><Severities><Stress><Subgroup><Symptoms><System><Technology><Testing><Visit><Work><active followup><acute symptom><ages><arm><care as usual><care coordination><care giving><care services><care systems><caregiving><child healthcare><chronic disorder><coordinating care><cost><demographics><design><designing><determine efficacy><diabetes><disadvantaged group><disadvantaged individual><disadvantaged people><disadvantaged population><disadvantaged subgroup><disparities across groups><disparity across subgroups><disparity among groups><disparity among subgroups><disparity between groups><disparity between subgroups><disparity in care><disparity in healthcare><early detection><efficacy analysis><efficacy assessment><efficacy determination><efficacy evaluation><efficacy examination><ethnic minority><evaluate efficacy><examine efficacy><experience><febrile><febris><feeding><financial incentive><financial reward><fluid><follow up><follow-up><followed up><followup><group disparity><group inequality><group inequity><health care><health care disparity><health care inequality><health care inequity><health care personnel><health care worker><health inequalities><health level><health literacy><health provider><health workforce><healthcare disparity><healthcare inequality><healthcare inequity><healthcare personnel><high risk><home health care><home healthcare><homes><hospital days><hospital length of stay><hospital stay><improved><improved outcome><inequalities among populations><inequalities between populations><inequalities in populations><inequality across populations><inequality among groups><inequality between groups><inequality in groups><inequities among populations><inequities between populations><inequities in populations><inequity across groups><inequity across populations><inequity between groups><inequity in groups><kids><liquid><m-Health app><m-Health application><mHealth app><mHealth application><mHealth therapeutic><mHealth therapy><mHealth treatment><medical personnel><mental state><mental status><mhealth interventions><mobile health intervention><mobile health therapeutic><mobile health therapy><mobile health treatment><monetary incentive><multimorbidity><multiple chronic conditions><novel><parent><pediatric><pediatric care><pediatric health care><pediatric healthcare><physical disability><physically disabled><physically handicapped><pilot trial><population inequality><population inequity><preference><prevent><preventing><programs><racial><racial background><racial minority><racial origin><randomisation><randomization><randomly assigned><remote monitoring><satisfaction><social><social health determinants><subgroup disparity><treatment as usual><treatment provider><unequal group><unequal population><usual care><well-being><wellbeing><youngster>",
+            "pref_terms": "Accident and Emergency department;Acute;Adherence;Admission activity;Affect;Age;Asthma;Attention;Body System;Caring;Child;Child Support;Child health care;Childhood;Chronic;Chronic Disease;Clinic;Complex;Data;Dependence;Deterioration;Diabetes Mellitus;Disabled Children;Disparity population;Early Diagnosis;Early Intervention;Early identification;Emergency department visit;Ethnic Origin;Family;Feedback;Fever;Focus Groups;Graph;Health;Health Care Costs;Health Personnel;Health Status;Healthcare;Home;Home Care Services;Hospitalization;Hospitalized Child;Hospitals;Impairment;Incentives;Inequity;Length of Stay;Liquid substance;Medical;Methods;Minority;Mobile Health Application;Modeling;Monitor;Multicenter Studies;Neurologic;Observational Study;Outcome;Pain;Parents;Pediatric Hospitals;Personal Satisfaction;Poverty;Quality of life;Race;Randomized;Recurrence;Reporting;Respiratory distress;Risk;Seizures;Self Efficacy;Severities;Stress;Subgroup;Symptoms;System;Technology;Testing;Visit;Work;acute symptom;arm;care coordination;care systems;caregiving;cost;demographics;design;efficacy evaluation;ethnic minority;experience;feeding;financial incentive;follow-up;health care disparity;health inequalities;health literacy;high risk;improved;improved outcome;mental state;mhealth interventions;multiple chronic conditions;novel;physically handicapped;pilot trial;preference;prevent;programs;racial minority;remote monitoring;satisfaction;social;social health determinants;treatment as usual",
+            "abstract_text": "PROJECT SUMMARY/ABSTRACT\nChildren with medical complexity (CMC) are the most vulnerable of children with chronic diseases, who have\ncomplex, multisystem chronic diseases affecting \u22653 organ systems, severe functional limitations and technology\ndependencies. CMC have high health care needs, and account for 40% of hospitalized children and 35% of all\npediatric health care costs. Due to high medical fragility, CMC have frequent acute deteriorations superimposed\non their chronic conditions, leading to recurrent emergency department (ED)/hospital admissions and affecting\nquality of life (QOL). To reduce ED/hospital admissions for CMC, remote monitoring is suggested, with use of\nmHealth apps to regularly assess their health status remotely and identify early signs of acute deterioration,\nallowing for early interventions to prevent ED/hospital admissions. Yet no app to support remote monitoring of\nCMC exists. Variable, multisystem conditions among CMC make it difficult to develop an app. Also, many CMC\nare at high-risk for health care inequities, with minorities having higher unmet needs, but the impacts of health\ncare inequities and social determinants of health (SDOH) on ED/hospital admissions in CMC are rarely studied.\nFortunately, ED/hospital admissions for CMC are often preceded by a limited set of shared (crosscutting) acute\nsymptoms. These crosscutting symptoms rarely occur suddenly. Studies suggest that they usually start as subtle\nsigns, often unnoticed by parents until they escalate to prompt an ED/hospital visit. Thus, crosscutting symptoms\noffer an opportunity for a novel and practical approach for developing a remote monitoring app for CMC,\ndespite their multiple, variable underlying conditions. In a focus group, parents identified the crosscutting\nsymptoms that most often preceded their children\u2019s hospital admissions, and conveyed their needs, preferences\nand key functionalities that led to MyChildCMC, the first app designed to monitor and identify early signs of\ncrosscutting symptoms in CMC. In a pilot trial of 50 subjects, we confirmed feasibility of MyChildCMC use by\nparents, ability to detect early signs 2-14 days prior to ED/hospital admissions, and use leading significantly to\nfewer hospital days than controls. The current study will assess the efficacy and sustainability of MyChildCMC\nin a fully-powered 6-month, 2-arm (MyChildCMC vs usual care) trial of CMC (age 1-18 years) and their parents.\nParents assigned to MyChildCMC will use the app daily for 6 months, both arms will receive financial incentive\nfor participation, then we will stop the incentive and follow subjects for 6 more months to assess sustainability at\n12 months. We will also assess if MyChildCMC use will help reduce or eliminate inequities in ED/hospital\nadmissions. Specific Aims are: 1) Determine MyChildCMC\u2019s efficacy on 1.a. Child (ED/hospital use, hospital\ndays and QOL) and 1.b. Parent (satisfaction, self-efficacy and stress) outcomes; 2) Compare ED/hospital use\namong racial/ethnic and SDOH subgroups to assess potential effect of MyChildCMC on inequities; 3) Use mixed\nmethods to identify child and parent factors associated with MyChildCMC\u2019s use adherence and sustainability.",
+            "project_title": "A Novel mHealth Intervention to Improve Outcomes of Children with Medical Complexity",
+            "phr_text": "PROJECT NARRATIVE\nFindings from this project will provide an effective, practical, and generalizable approach to supporting home\nmonitoring of children with medical complexity (CMC). This will also serve as a model for reducing recurring\nemergency department (ED) visits and hospital admissions associated with CMC, generalizable to all children\nwith other multiple chronic conditions.",
+            "spending_categories_desc": null,
+            "agency_code": "NIH",
+            "budget_start": "2024-06-12T12:06:00Z",
+            "budget_end": "2025-03-31T12:03:00Z",
+            "funding_mechanism": "Non-SBIR/STTR",
+            "direct_cost_amt": 446078,
+            "indirect_cost_amt": 185466,
+            "project_detail_url": "https://reporter.nih.gov/project-details/10785881"
+        }
+    ]
+}

@@ -1,8 +1,8 @@
 # AIE5 Assignment 13 - Advanced Retrieval
 
-GitHub Link: 
+GitHub Link: https://github.com/christinemahler/AIE5/blob/main/13_Advanced_Retrieval/Advanced_Retrieval_with_LangChain_Assignment.ipynb
 
-Loom Video: 
+Loom Video: https://www.loom.com/share/2e00f220b15944c1a623826e7391d5cd?sid=c5e0d1bb-2eeb-447a-ac58-304a63818924
 
 # 3 Lessons Learned
 

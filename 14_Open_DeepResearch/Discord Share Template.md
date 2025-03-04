@@ -1,8 +1,8 @@
 # AIE5 Assignment 14 - Open Deep Research
 
-GitHub Link: 
+GitHub Link: https://github.com/christinemahler/AIE5/blob/main/14_Open_DeepResearch/open-deep-research.ipynb
 
-Loom Video: 
+Loom Video: https://www.loom.com/share/bdbd742e026f43368ea71a972ff68998?sid=2fa7fa61-f16b-428d-8ff1-9ac8a9739207
 
 # 3 Lessons Learned
 

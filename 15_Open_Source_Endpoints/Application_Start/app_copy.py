@@ -42,6 +42,7 @@ HF_TOKEN = os.environ["HF_TOKEN"]
 """
 ### 1. CREATE TEXT LOADER AND LOAD DOCUMENTS
 ### NOTE: PAY ATTENTION TO THE PATH THEY ARE IN. 
+<<<<<<< HEAD
 text_loader = TextLoader("./paul-graham-to-kindle/paul_graham_essays.txt")
 documents = text_loader.load()
 
@@ -55,6 +56,17 @@ hf_embeddings = HuggingFaceEndpointEmbeddings(
     task="feature-extraction",
     huggingfacehub_api_token=os.environ["HF_TOKEN"],
 )
+=======
+text_loader = 
+documents = 
+
+### 2. CREATE TEXT SPLITTER AND SPLIT DOCUMENTS
+text_splitter = 
+split_documents = 
+
+### 3. LOAD HUGGINGFACE EMBEDDINGS
+hf_embeddings = 
+>>>>>>> d5f7034777e9980d36f027da5b5889b079fdd29d
 
 async def add_documents_async(vectorstore, documents):
     await vectorstore.aadd_documents(documents)
@@ -114,6 +126,7 @@ hf_retriever = asyncio.run(run())
 2. Create a Prompt Template from the String Template
 """
 ### 1. DEFINE STRING TEMPLATE
+<<<<<<< HEAD
 RAG_PROMPT_TEMPLATE = """\
 <|start_header_id|>system<|end_header_id|>
 You are a helpful assistant. You answer user questions based on provided context. If you can't answer the question with the provided context, say you don't know.<|eot_id|>
@@ -130,12 +143,19 @@ Context:
 
 ### 2. CREATE PROMPT TEMPLATE
 rag_prompt = PromptTemplate.from_template(RAG_PROMPT_TEMPLATE)
+=======
+RAG_PROMPT_TEMPLATE = 
+
+### 2. CREATE PROMPT TEMPLATE
+rag_prompt =
+>>>>>>> d5f7034777e9980d36f027da5b5889b079fdd29d
 
 # -- GENERATION -- #
 """
 1. Create a HuggingFaceEndpoint for the LLM
 """
 ### 1. CREATE HUGGINGFACE ENDPOINT FOR LLM
+<<<<<<< HEAD
 hf_llm = HuggingFaceEndpoint(
     endpoint_url=f"{HF_LLM_ENDPOINT}",
     task="text-generation",
@@ -146,6 +166,9 @@ hf_llm = HuggingFaceEndpoint(
     temperature=0.01,
     repetition_penalty=1.03,
 )
+=======
+hf_llm = 
+>>>>>>> d5f7034777e9980d36f027da5b5889b079fdd29d
 
 @cl.author_rename
 def rename(original_author: str):

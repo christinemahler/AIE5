@@ -35,4 +35,5 @@ dependencies = [
     "langchain-huggingface==0.1.2",
     "python-dotenv>=1.0.1",
     "websockets>=15.0",
+    "requests>=2.32.3",
 ]

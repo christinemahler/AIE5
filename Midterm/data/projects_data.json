@@ -1,6 +1,6 @@
 {
     "meta": {
-        "search_id": "ztUuT0SqWEGBW4sPYsmaLg",
+        "search_id": "SRz3dRgks0WDSV5_efoiyQ",
         "total": 1066,
         "offset": 0,
         "limit": 5,
@@ -8,7 +8,7 @@
         "sort_order": "desc",
         "sorted_by_relevance": true,
         "properties": {
-            "URL": "https:/reporter.nih.gov/search/ztUuT0SqWEGBW4sPYsmaLg/projects"
+            "URL": "https:/reporter.nih.gov/search/SRz3dRgks0WDSV5_efoiyQ/projects"
         }
     },
     "results": [
@@ -76,7 +76,9 @@
                     "code": "HD",
                     "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
                     "abbreviation": "NICHD",
-                    "total_cost": 167455.0
+                    "total_cost": 167455.0,
+                    "direct_cost_ic": 155051.0,
+                    "indirect_cost_ic": 12404.0
                 }
             ],
             "project_start_date": "2024-09-18T12:09:00Z",
@@ -193,7 +195,9 @@
                     "code": "NS",
                     "name": "National Institute of Neurological Disorders and Stroke",
                     "abbreviation": "NINDS",
-                    "total_cost": 797002.0
+                    "total_cost": 797002.0,
+                    "direct_cost_ic": 517534.0,
+                    "indirect_cost_ic": 279468.0
                 }
             ],
             "project_start_date": "2024-09-01T12:09:00Z",
@@ -310,7 +314,9 @@
                     "code": "HD",
                     "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
                     "abbreviation": "NICHD",
-                    "total_cost": 253167.0
+                    "total_cost": 253167.0,
+                    "direct_cost_ic": 198635.0,
+                    "indirect_cost_ic": 54532.0
                 }
             ],
             "project_start_date": "2024-08-23T12:08:00Z",
@@ -409,7 +415,9 @@
                     "code": "HD",
                     "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
                     "abbreviation": "NICHD",
-                    "total_cost": 167001.0
+                    "total_cost": 167001.0,
+                    "direct_cost_ic": 154828.0,
+                    "indirect_cost_ic": 12173.0
                 }
             ],
             "project_start_date": "2024-07-16T12:07:00Z",
@@ -508,7 +516,9 @@
                     "code": "NR",
                     "name": "National Institute of Nursing Research",
                     "abbreviation": "NINR",
-                    "total_cost": 631544.0
+                    "total_cost": 631544.0,
+                    "direct_cost_ic": 446078.0,
+                    "indirect_cost_ic": 185466.0
                 }
             ],
             "project_start_date": "2024-06-12T12:06:00Z",

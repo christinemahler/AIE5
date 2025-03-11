@@ -1,0 +1,25 @@
+Given the study details and the complexity involved, we will draft an appropriate NIH budget allocation for multiple years based on the necessary roles. The percentage effort per study year will be calculated with special consideration to handling intensive data, regulatory compliance, sophisticated IT infrastructure, and complex operational coordination as highlighted in the specifics of the NIH funding opportunity PA-25-147.
+
+### Role Effort Allocation by Study Year (%)
+| Role                             | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 |
+|----------------------------------|--------|--------|--------|--------|--------|
+| **DCC Principal Investigator**   | 20%    | 20%    | 15%    | 15%    | 15%    |
+| **DCC Co-Principal Investigator**| 15%    | 15%    | 10%    | 10%    | 10%    |
+| **Clinical Data Managers**       | 10%    | 10%    | 10%    | 10%    | 10%    |
+| **Stats**                        | 10%    | 10%    | 10%    | 10%    | 10%    |
+| **Clinical Project Manager**     | 10%    | 10%    | 10%    | 10%    | 10%    |
+| **Business Project Manager**     | 5%     | 5%     | 5%     | 5%     | 5%     |
+| **Software Engineering**         | 10%    | 10%    | 10%    | 10%    | 10%    |
+| **IT Project Manager**           | 5%     | 5%     | 5%     | 5%     | 5%     |
+| **IT Operations**                | 5%     | 5%     | 5%     | 5%     | 5%     |
+| **Ops Leader**                   | 5%     | 5%     | 5%     | 5%     | 5%     |
+| **Administrative Program Assistant** | 5%  | 5% | 5% | 5%  | 5%      |
+| **Regulatory and Quality Assurance Manager**  | 10% | 10% | 10% | 10% | 10% |
+| **Finance**                      | 5%     | 5%     | 5%     | 5%     | 5%     |
+| **Medical Monitor**              | 5%     | 5%     | 5%     | 5%     | 5%     |
+| **Business Intelligence**        | 5%     | 5%     | 5%     | 5%     | 5%     |
+| **Stats Manager**                | 5%     | 5%     | 5%     | 5%     | 5%     |
+| **Clinical Data Management Manager** | 5% | 5% | 5% | 5% | 5%      |
+| **IT Manager**                   | 5%     | 5%     | 5%     | 5%     | 5%     |
+
+These allocations are designed to ensure that the study has a continuous, consistent amount of effort across all critical roles throughout its lifespan, while allowing for adjustments according to the phases of the study. These percentages are estimates based on standard NIH guidelines and the complexity score of the study, allowing for optimal staff involvement to meet the extensive demands of the high-risk multi-center clinical trial.

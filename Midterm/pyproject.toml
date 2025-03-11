@@ -36,4 +36,5 @@ dependencies = [
     "python-dotenv>=1.0.1",
     "websockets>=15.0",
     "requests>=2.32.3",
+    "arxiv>=2.1.3",
 ]

@@ -1,6 +1,6 @@
 # AIE5 Assignment 16 - Caching and Deep Research
 
-GitHub Link: 
+GitHub Link: https://github.com/christinemahler/AIE5/blob/main/16_LLMOps/Prototyping_LangChain_Application_with_Production_Minded_Changes_Assignment_Completed.ipynb
 
 Loom Video: https://www.loom.com/share/062c6e85b5874804b63e8b889e64b0a2?sid=aea01e56-2cf2-460c-86a8-7ade14f4efcd
 
